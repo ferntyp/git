@@ -23,3 +23,5 @@ pg_exec("INSERT INTO public.park(id,status) VALUES ($val,$va)");
 pg_close($db_handel);
 
 ?>
+
+//444444444/
